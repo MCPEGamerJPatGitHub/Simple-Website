@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>Search | Simple Website</title>
+<style>
+</style>
+</head>
+<body>
+<center><h1><strong>Search - Simple Website</strong></h1></center>
+<center><form action="search.html?s=" method="get"><input type="text" name="s" value="" /><input type="Submit" value="Search" /></form></center>
+<center><strong>Search Result</strong></center>
+<center><p>Search Description</p></center>
+</body>
+</html>
